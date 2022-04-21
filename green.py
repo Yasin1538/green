@@ -690,12 +690,14 @@ class load:
 
             sys.stdout.flush()
 
-            time.sleep(0.1)
+            time.sleep(5)
 
             print('\n')
+            
+            menu()
 		
 		
-login()
+haha()
  
 
 
