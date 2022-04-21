@@ -47,7 +47,7 @@ def jalan(z):
  [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]
     Author   : YASEEN KHAN
     Facebook : facebook.com/yaseenkhan
-    Connect  : 03433978031
+    print Yaseen
  [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]
  \033[1;32m Use (Airplane) Mod Every 10 Min For Get More Ok iDz \033[1;32m
  [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]"""                           
