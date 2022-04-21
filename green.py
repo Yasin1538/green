@@ -692,12 +692,12 @@ class load:
 
             time.sleep(5)
 
-            print('\n')
+        print('\n')
+
+Sarfraz()
             
-            menu()
+           
 		
-		
-haha()
  
 
 
