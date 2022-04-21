@@ -693,5 +693,10 @@ class load:
             time.sleep(0.1)
 
             print('\n')
+		
+		
+		if __name__ == '__main__':
+	login()
+ 
 
-menu()
+
