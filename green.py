@@ -694,4 +694,4 @@ class load:
 
         print('\n')
 
-yaseen()
+""
