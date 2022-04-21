@@ -673,11 +673,31 @@ def yt():
 class load:
 
     def __init__(self):
-		try:menu()
-		except:pass
-		try:menu();exit()
-		except requests.exceptions.ConnectionError:jalan(war+"Network Is Dead !")
-		except Exception as e:print(war+"Error : %s"%(e))
+
+        _ = ''
+
+        __ = int('30')
+
+        ___ = int('0')
+
+        __ -= 1
+
+        ___ += 1
+
+        for t in range(int("1")):
+
+            print('\r Wait Bro Loading ...')
+
+            sys.stdout.flush()
+
+            time.sleep(5)
+
+        print('\n')
+      
+        if __name__=='__main__':
+            main_apv()
+
+
 
 
             
