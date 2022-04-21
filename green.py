@@ -240,7 +240,7 @@ logo="""\033[1;37m
 
  [$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]
 
-    Author   : ZEESHAN AHMAD
+    Author   : YASEEN AHMAD
 
     Facebook : facebook.com/ZeeshanAhmad
 
